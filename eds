@@ -1,0 +1,1 @@
+sudo modprobe fbtft_device custom name=fb_ili9325 rotate=90 width=240 height=320 buswidth=8 gpios=reset:17,led:04,cs:27,dc:03,wr:02,db00:09,db01:11,db02:18,db03:23,db04:24,db05:25,db06:08,db07:07
